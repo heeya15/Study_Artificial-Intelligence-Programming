@@ -1,0 +1,10 @@
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\bin\Debug\Recognize Hangul characters.exe.config
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\bin\Debug\Recognize Hangul characters.exe
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\bin\Debug\Recognize Hangul characters.pdb
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\obj\Debug\Recognize Hangul characters.csprojAssemblyReference.cache
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\obj\Debug\Recognize_Hangul_characters.Form1.resources
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\obj\Debug\Recognize_Hangul_characters.Properties.Resources.resources
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\obj\Debug\Recognize Hangul characters.csproj.GenerateResource.cache
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\obj\Debug\Recognize Hangul characters.csproj.CoreCompileInputs.cache
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\obj\Debug\Recognize Hangul characters.exe
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\기말프로젝트(한글 문자 인식)\Recognize Hangul characters\Recognize Hangul characters\obj\Debug\Recognize Hangul characters.pdb
