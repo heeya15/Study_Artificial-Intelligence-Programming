@@ -1,0 +1,7 @@
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\FCM\FCM\bin\Debug\FCM.exe.config
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\FCM\FCM\bin\Debug\FCM.exe
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\FCM\FCM\bin\Debug\FCM.pdb
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\FCM\FCM\obj\Debug\FCM.csprojAssemblyReference.cache
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\FCM\FCM\obj\Debug\FCM.csproj.CoreCompileInputs.cache
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\FCM\FCM\obj\Debug\FCM.exe
+C:\Users\choon\OneDrive\Desktop\4학년 2학기 수업파일\인공지능 수업\FCM\FCM\obj\Debug\FCM.pdb
